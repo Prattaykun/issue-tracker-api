@@ -203,25 +203,4 @@ Returns users with the highest number of assigned issues.
 ## 👤 Author
 
 **Prattay Roy Chowdhury**
-Backend Developer – FastAPI & PostgreSQL
-
-````
-
----
-
-## ✅ What you should do next
-
-1. Save `.gitignore` and `README.md`
-2. Run:
-   ```bash
-   git status
-````
-
-3. Ensure `venv/` and `.env` are **NOT listed**
-4. Commit:
-
-   ```bash
-   git add .
-   git commit -m "Initial FastAPI Issue Tracker backend"
-   ```
 
