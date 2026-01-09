@@ -1,6 +1,5 @@
 
 
-```md
 # Issue Tracker API
 
 A backend Issue Tracker system built using **FastAPI** and **PostgreSQL**.  
